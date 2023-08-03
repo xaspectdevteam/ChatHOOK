@@ -7,10 +7,9 @@ But what about our conversations with AI chatbots?
 
 Introducing ChatHOOK the next stage in the generative AI wave, and the first platform to enable face-to-face conversations with an “AI Digital Human” in a natural way: 
     
+![Xaspect Generative AI Interactive Digital Human Chatbot demo screenshot](https://github.com/xaspectdevteam/ChatHOOK/assets/141177040/d8f40897-769a-44f7-b95d-db683c5a3aef)
 
 Using a “conversational workflow”, users interact via the ChatHOOK UI that offers customizable profiles and filters to create content, then present that content across multi-modal data displays (text, graphics, video and audio).
-
- ![Xaspect Generative AI Interactive Digital Human Chatbot demo screenshot](https://github.com/xaspectdevteam/ChatHOOK/assets/141177040/d8f40897-769a-44f7-b95d-db683c5a3aef)
 
 ChatHOOK is complimentary to the large language models that drive generative AI such as ChatGPT, but will allow users to interact in a more human, engaging and effective way.
 Behind ChatHOOK’s AI Digital Human is a neural search engine that uses cross-modal machine learning. 
